@@ -7,7 +7,11 @@ Desenvolvedora Full Stack em formação, com experiência em React, Spring Boot,
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceciliaporcidonio&show_icons=true&count_private=true&theme=radical)
 
 ### Projetos
+
+###### Front-end
 [![site_alia_comunica](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=site_alia_comunica&theme=dark)](https://github.com/ceciliaporcidonio/site_alia_comunica)
+
+[![landing_page](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=landing_page&theme=dark)](https://github.com/ceciliaporcidonio/landing_page)
 
 [![projeto3](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=projeto3&theme=dark)](https://github.com/ceciliaporcidonio/projeto3)
 
@@ -21,7 +25,6 @@ Desenvolvedora Full Stack em formação, com experiência em React, Spring Boot,
 
 [![projeto_4](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=projeto_4&theme=dark)](https://github.com/ceciliaporcidonio/projeto_4)
 
-[![landing_page](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=landing_page&theme=dark)](https://github.com/ceciliaporcidonio/landing_page)
 
 ### Linguagens utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliaporcidonio&layout=compact&theme=tokyonight)
