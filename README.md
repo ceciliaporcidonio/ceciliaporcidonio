@@ -9,20 +9,20 @@ Desenvolvedora Full Stack em formação, com experiência em React, Spring Boot,
 ### Projetos
 
 ###### Front-end
-[![site_alia_comunica](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=site_alia_comunica&theme=radical)](https://github.com/ceciliaporcidonio/site_alia_comunica)
+[![site_alia_comunica](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=site_alia_comunica&theme=tokyonight)](https://github.com/ceciliaporcidonio/site_alia_comunica)
 
 [![landing_page](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=landing_page&theme=radical)](https://github.com/ceciliaporcidonio/landing_page)
 
-[![projeto3](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=projeto3&theme=radical)](https://github.com/ceciliaporcidonio/projeto3)
+[![projeto3](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=projeto3&theme=tokyonight)](https://github.com/ceciliaporcidonio/projeto3)
 
 [![projeto4](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=projeto4&theme=radical)](https://github.com/ceciliaporcidonio/projeto4)
 
-[![projeto2](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=projeto2&theme=radical)](https://github.com/ceciliaporcidonio/projeto2)
+[![projeto2](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=projeto2&theme=tokyonight)](https://github.com/ceciliaporcidonio/projeto2)
 
 [![projeto6](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=projeto6&theme=radical)](https://github.com/ceciliaporcidonio/projeto6)
 
 ###### Back-end
-[![projeto5](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=projeto5&theme=radical)](https://github.com/ceciliaporcidonio/projeto5)
+[![projeto5](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=projeto5&theme=tokyonight)](https://github.com/ceciliaporcidonio/projeto5)
 
 [![projeto_4](https://github-readme-stats.vercel.app/api/pin/?username=ceciliaporcidonio&repo=projeto_4&theme=radical)](https://github.com/ceciliaporcidonio/projeto_4)
 
