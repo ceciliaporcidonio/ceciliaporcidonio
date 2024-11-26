@@ -5,5 +5,7 @@ Desenvolvedora Full Stack em formação, com experiência em React, Spring Boot,
 
 ###### Detalhes
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceciliaporcidonio&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://your-vercel-instance.vercel.app/api?username=ceciliaporcidonio&show_icons=true&theme=tokyonight&count_private=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliaporcidonio&layout=compact&theme=tokyonight)
