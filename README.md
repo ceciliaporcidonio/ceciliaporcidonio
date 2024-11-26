@@ -31,5 +31,5 @@ Desenvolvedora Full Stack em formação, com experiência em React, Spring Boot,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliaporcidonio&layout=compact&theme=tokyonight)
 
 ### Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40anaceciliabporcidonio-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaceciliabporcidonio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40anaceciliabporcidonio-blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/anaceciliabporcidonio/)
 
